@@ -1,0 +1,7 @@
+food	2000.0
+trans.	20.0
+lesson	40
+health	100
+clothes	250
+yemek	50.0
+shopping	1544
